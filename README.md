@@ -56,7 +56,3 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/Muhammed-AhmedGithup/Muhammed-AhmedGithup/output/snake.svg" alt="Snake animation" />
-
-###
